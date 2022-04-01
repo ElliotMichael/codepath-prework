@@ -2,9 +2,9 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **ELLIOT ERHUNMWUOSERE**
 
-Time spent: **#** hours spent in total
+Time spent: **8** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
@@ -39,10 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](file:///C:/Users/User/OneDrive/Desktop/codepath-prework/gameButtonBehaviour.gif)
+![](C:\Users\User\OneDrive\Desktop\codepath-prework\gif\losingGame.gif)
+![](C:\Users\User\OneDrive\Desktop\codepath-prework\gif\patternAndPlayingClues.gif)
+![](C:\Users\User\OneDrive\Desktop\codepath-prework\gif\StartEndButtonBehavior.gif)
+![](C:\Users\User\OneDrive\Desktop\codepath-prework\gif\winningGame.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
