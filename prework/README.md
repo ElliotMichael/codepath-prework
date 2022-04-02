@@ -38,6 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
+PLS COPY AND PASTE EACH LINKS TO A NEW TAB.
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![https://drive.google.com/file/d/14w6O0u_K-vmvmzvrpYhxRbi2gRN3jn7S/view?usp=sharing]()
 ![https://drive.google.com/file/d/15WcyhUC6KO3p_thJfz-va-VQ4-Sy3keC/view?usp=sharing]()
